@@ -1,6 +1,6 @@
 # Skipli-Challenge
 
-## Steps to run the project:
+#### Steps to run the project:
 
  Step 1:
   - Download/Clone the project by typing command (git clone https://github.com/tricaodo/Skipli-Challenge.git) in terminal. 
