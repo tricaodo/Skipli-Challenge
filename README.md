@@ -16,5 +16,6 @@
   - Type a command "npm install" in terminal to install all the dependencies
   - Copy all the files in zip file (sent via email) to this folder (backend)
   - Then "node index.js" to start the application
+  
  Step 4:
   - Open the browser and navigate to this address(http://localhost:3000/) to test the application
